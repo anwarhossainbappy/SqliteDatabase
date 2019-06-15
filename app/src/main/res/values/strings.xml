@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQlite</string>
+    <string name="title_activity_delete_data">DeleteData</string>
+</resources>
